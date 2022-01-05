@@ -1,6 +1,6 @@
 <?php
 
-class First {
+class Form {
     
     private $data; //donnée du formulaires
 
